@@ -1,0 +1,25 @@
+{
+  "name": "summa_slackbot",
+  "version": "1.0.0",
+  "description": "slackbot that create data visulizations from summa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heenaI/Summa_slackbot.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "author": "Hina Imran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heenaI/Summa_slackbot/issues"
+  },
+  "homepage": "https://github.com/heenaI/Summa_slackbot#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
